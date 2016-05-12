@@ -5,7 +5,7 @@ The project was written in my free time to practice my comfort with machine lear
 Honestly, my algorithm can detect abnormalities with about 62-65% accuracy, but it's a starting point for making better diagnostic algorithms in the future.
 
 
-Credit for the dataset and test files belongs to the University of Irvine Machine Learning Repository. Data available here: https://archive.ics.uci.edu/ml/datasets/SPECT+Heart
+Written in C++. Credit for the dataset and test files belongs to the University of Irvine Machine Learning Repository. Data available here: https://archive.ics.uci.edu/ml/datasets/SPECT+Heart. Credit for my inspiration and knowledge goes to Prof. Michael Black.
 
 # Compiling the Project
 Navigate to the project out of your command line. Run:
